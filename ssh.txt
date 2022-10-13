@@ -1,0 +1,2 @@
+ssh [username]@[ip]
+then you are ssh'ing into the server, see other photos for more
